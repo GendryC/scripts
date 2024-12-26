@@ -15,6 +15,10 @@ Para instalar el script, sigue estos pasos:
 2. Ejecuta el script como sudo  
 	```bash
 	./install.sh  
+	```  
+3. Copia  
+	```bash  
+	git clone https://github.com/GendryC/scripts.git && cd scripts/rud && sudo ./install.sh
 	```
 ---
 ## Uso
