@@ -1,0 +1,16 @@
+{
+    "pdfs": "PDFs/{nombre}",
+    "imagenes": "Imagenes/{nombre}/{anno}",
+    "animes": "Animes/{nombre del anime} {mes} {anno}/Temporada {numero temporada}/{numero capitulo} {nombre capitulo} || Animes/{nombre del anime} {mes} {anno}/{numero capitulo} {nombre capitulo}",
+    "musica": "Musica/{autor}/{album}/{cancion}",
+    "peliculas": "Peliculas/{nombre} - {genero} ({anno})/{nombre} {subtitulo}",
+    "series": "Series/{nombre de serie} {genero} {anno}/Temporada {numero temporada}/{numero capitulo} {nombre capitulo}",
+    "youtube o tiktoks": "Variados/{plataforma}/{archivo}",
+    "otras configuraciones": [
+        "No mezclar diferentes tipos de contenido en una misma carpeta; por ejemplo, animes y series deben estar en carpetas separadas.",
+        "Si ya existen carpetas que cumplen con los requisitos, úsalas sin crear nuevas.",
+        "Para música sin autor conocido, usa 'Autor Desconocido' como carpeta de autor: 'Musica/Autor Desconocido/{cancion}'.",
+        "Para música con autor pero sin álbum específico, usa 'Musica/{autor}/{cancion}'.",
+        "Para animes, busca información sobre la serie para saber si tiene una o más temporadas. Si es una película anime, no lleva temporada. Si el capítulo tiene un nombre, identifica a qué temporada pertenece."
+    ]
+}
